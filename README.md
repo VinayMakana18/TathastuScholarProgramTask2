@@ -1,1 +1,1 @@
-# TathastuScholarProgramTask2
+# TathastuScholarProgramTask2(CORE-JAVA)
